@@ -1,0 +1,15 @@
+name: BattleBuilders
+main: Zade\BuildMain
+api: [3.0.0-ALPHA12]
+version: 5.8.0.2
+author: Zadezter (Real Author) | HummelSvem
+website: http://github.com/Zadezter/BattleBuilders
+
+commands:
+    buildcreate:
+        usage: /buildcreate <world>
+        description: Create a new BattleBuilders arena!
+permissions:
+    battlebuilders.command.op:
+        default: op
+  
